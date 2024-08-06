@@ -1,0 +1,3 @@
+npx create_react_app filename
+cd filename
+Npm start
